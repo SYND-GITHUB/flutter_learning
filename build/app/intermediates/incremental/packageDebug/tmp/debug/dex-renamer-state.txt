@@ -1,0 +1,4 @@
+#Mon Apr 18 22:01:35 ICT 2022
+base.0=/Volumes/DATA/FLUTTER/PROJECT/HelloFlutter/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

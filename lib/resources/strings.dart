@@ -1,0 +1,16 @@
+const String STUDENT_ADJUSTMENT = "Đánh giá học sinh";
+const String MATH_SCORE = "Điểm Toán";
+const String MATH_HINT = "Nhập Điểm Toán";
+const String LITERATURE_SCORE = "Điểm Văn";
+const String LITERATURE_HINT = "Nhập Điểm Văn";
+const String ENGLISH_SCORE = "Điểm Anh";
+const String ENGLISH_HINT = "Nhập Điểm Anh";
+const String ADJUSTMENT = "ĐÁNH GIÁ";
+const String AVERAGE_SCORE = "Điểm Trung Bình";
+const String UNDEFINED = "Chưa Xác Định";
+const String GRADE = "Học Lực";
+const String MARK_LOW = "Chưa Đạt";
+const String MARK_MEDIUM = "Đạt";
+const String MARK_HIGH = "Xuất Sắc";
+const String CHANGE_PAGE = "Chuyển Trang";
+const String INFO_PAGE = "Trang Thông Tin";
