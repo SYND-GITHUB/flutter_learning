@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'views/student_adjustment_screen.dart';
+import 'package:hello_flutter/ui/lessions/lession_10.dart';
 
 void main() {
   runApp(const MyApp());
@@ -11,9 +10,12 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
+    return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: StudentAdjustmentScreen(),
+      theme: ThemeData(
+        fontFamily: "Raleway",
+      ),
+      home: Lession10(),
     );
   }
 }

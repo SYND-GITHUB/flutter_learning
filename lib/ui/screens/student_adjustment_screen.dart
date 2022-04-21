@@ -1,9 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:hello_flutter/resources/strings.dart';
-import 'package:hello_flutter/resources/widgets/custom_button_widget.dart';
-import 'package:hello_flutter/resources/widgets/info_card_widget.dart';
-import 'package:hello_flutter/resources/widgets/input_widget.dart';
-import 'package:hello_flutter/views/info_screen.dart';
+import '../../resources/strings.dart';
+import '../widgets/custom_button_widget.dart';
+import '../widgets/info_card_widget.dart';
+import '../widgets/input_widget.dart';
+import 'info_screen.dart';
 
 class StudentAdjustmentScreen extends StatefulWidget {
   const StudentAdjustmentScreen({Key? key}) : super(key: key);
